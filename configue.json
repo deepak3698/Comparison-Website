@@ -1,0 +1,12 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/medicine1",
+      "prod_uri":"mysql://root:@localhost/medicine1",
+      "secret_key": "deepak_tiwari_16599_30",
+      "no_of_items": 5
+ 
+    }
+  
+  }
